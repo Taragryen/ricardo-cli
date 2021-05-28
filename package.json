@@ -1,7 +1,7 @@
 {
   "name": "ricardo-cli",
   "version": "1.0.0",
-  "description": "simple react cli",
+  "description": "simple vue cli",
   "main": "index.js",
   "bin": {
     "rc": "./bin/cli.js"
@@ -12,11 +12,14 @@
   "author": "ricardo",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.21.1",
     "chalk": "^4.1.1",
     "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
     "ejs": "^3.1.6",
     "figlet": "^1.5.0",
     "fs-extra": "^10.0.0",
-    "inquirer": "^8.1.0"
+    "inquirer": "^8.1.0",
+    "ora": "^5.4.0"
   }
 }
