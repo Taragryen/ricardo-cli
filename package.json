@@ -9,7 +9,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ricardo",
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": {
+    "name": "Ricardo",
+    "email": "2429747506@qq.com"
+  },
+  "keywords": [
+    "ricardo-cli",
+    "rc",
+    "cli",
+    "node",
+    "脚手架"
+  ],
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
