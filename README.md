@@ -12,4 +12,4 @@
 - download-git-repo: 下载远程模版
 - ora: 控制台 loading 样式
 
-test
+test commitizen
